@@ -3,6 +3,9 @@ layout: post
 title: I'm not special.
 published: true
 ---
+![scan0015.jpg]({{site.baseurl}}/_drafts/scan0015.jpg)
+
+
 I started a blog.
 This is it.
 Not because I think I’m anything special.
