@@ -3,7 +3,7 @@ layout: post
 title: I'm not special.
 published: true
 ---
-![scan0007 copy.jpg]({{site.baseurl}}/_posts/scan0007 copy.jpg)
+![scan0007copy.jpg]({{site.baseurl}}/_posts/scan0007copy.jpg)
 
 I started a blog.
 This is it.
